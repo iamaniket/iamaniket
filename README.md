@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Pronouns](https://img.shields.io/badge/developer-red?style=social&logo=typescript)]()
 
 <!--
 **iamaniket/iamaniket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
